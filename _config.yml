@@ -12,12 +12,12 @@ repository               : "kaabir/kaabir.github.io" #Allenpandas/Allenpandas.gi
 google_scholar_stats_use_cdn : false
 
 # google analytics
-#google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-#google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-#bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
-#baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
+google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
@@ -64,7 +64,7 @@ include:
   - .htaccess
   - _pages
   - files
-
+exclude:
   - docs
   - google_scholar_crawler
   - "*.sublime-project"
@@ -78,7 +78,8 @@ include:
   - Capfile
   - Gemfile
   - Gruntfile.js
-
+  - LICENSE
+  - README
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
@@ -90,9 +91,6 @@ include:
   - package.json
   - tmp
   - vendor
-exclude:  
-  - LICENSE
-  - README
 keep_files:
   - .git
   - .svn
@@ -138,7 +136,6 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-#timezone: CET
 #timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
