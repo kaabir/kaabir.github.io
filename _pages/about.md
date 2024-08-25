@@ -45,11 +45,11 @@ By integrating multiple disciplines, my research aims to uncover novel insights 
 
 # ⚙️ Projects
 
-- *2022 - Now:* Actin shapes nuclear architecture during ependymal cell differentiation, Dr. [Julie Plastino](https://www.lpens.ens.psl.eu/), Dr. [Nathalie Delghyr](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) and Dr. [Ayako Yamada](https://scholar.google.com/citations?user=0t5xxJMAAAAJ&hl=fr&oi=ao)
-- *2021 - 2022:* Developed droplet beads to measure signaling pathways in cancer cell aggregates, Dr. [Hélène Delanoë-Ayari](https://scholar.google.fr/citations?user=PeyjJxEAAAAJ&hl=en) and Dr. [Olivier Meurette](https://scholar.google.fr/citations?user=xDjT3roAAAAJ&hl=en)
-- *2020-2021:* Developed a Microfluidic platform to study morphogenesis of quail embryos, Dr. [Arthur Michaut](https://scholar.google.fr/citations?user=PmpFf9MAAAAJ&hl=en) 
-- *2020-2020:* Integration of printable polymers with composite nanomaterials for wearable microfluidics, Prof. [Bonnie Gray](https://scholar.google.ca/citations?user=32AbNWQAAAAJ&hl=en) 
-- *2019-2020:* Fabrication and Integration of Microfluidic platform for fluorimetric analysis, Indian Institute of Technology Delhi, India, Master's thesis supervised by Prof. [Sunil Kumar](https://web.iitd.ac.in/~kumarsunil/)
+- *2022 - Now:* Actin shapes nuclear architecture during ependymal cell differentiation, École normale supérieure supervised by Dr. [Julie Plastino](https://www.lpens.ens.psl.eu/), Dr. [Nathalie Delghyr](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) and Dr. [Ayako Yamada](https://scholar.google.com/citations?user=0t5xxJMAAAAJ&hl=fr&oi=ao)
+- *2021 - 2022:* Developed droplet beads to measure signaling pathways in cancer cell aggregates, Cancer Research Center of Lyon, Dr. [Hélène Delanoë-Ayari](https://scholar.google.fr/citations?user=PeyjJxEAAAAJ&hl=en) and Dr. [Olivier Meurette](https://scholar.google.fr/citations?user=xDjT3roAAAAJ&hl=en)
+- *2020-2021:* Developed a Microfluidic platform to study morphogenesis of quail embryos, Institute Pastuer, Dr. [Arthur Michaut](https://scholar.google.fr/citations?user=PmpFf9MAAAAJ&hl=en) 
+- *2020-2020:* Integration of printable polymers with composite nanomaterials for wearable microfluidics, Simon Fraser University, Canada, Prof. [Bonnie Gray](https://scholar.google.ca/citations?user=32AbNWQAAAAJ&hl=en) 
+- *2019-2020:* Fabrication and Integration of Microfluidic platform for fluorimetric analysis, Indian Institute of Technology Delhi, Master's thesis supervised by Prof. [Sunil Kumar](https://web.iitd.ac.in/~kumarsunil/)
 
 # 🎖 Honors and Awards
 - *2023.07:*  French Ministry of Research - Doctoral Research Fellowship 2023-2026
