@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "#About-Me"
+
+  - title: "News"
+    url: "#News"
+
+  - title: "Publications"
+    url: "#Publications"
+
+  # - title: "Patents"
+    # url: "#Patents"
+
+  - title: "Honors and Awards"
+    url: "#Honors-and-Awards"
+
+  - title: "Educations"
+    url: "#Educations"
+
+  - title: "Projects"
+    url: "#Projects"
