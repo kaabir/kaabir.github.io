@@ -19,7 +19,9 @@ redirect_from:
 
 Hi! I am Syed Kaabir Ali. I am a doctoral candidate at the [Active Cell Matter Lab](https://www.lpens.ens.psl.eu/research/biophys/equipe-19/?lang=en) at [École normale supérieure](https://www.lpens.ens.psl.eu/). I am advised by Dr. [Julie Plastino](https://www.lpens.ens.psl.eu/), Dr. [Nathalie Delghyr](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) and Dr. [Ayako Yamada](https://scholar.google.com/citations?user=0t5xxJMAAAAJ&hl=fr&oi=ao). Prior to my doctoral research career, I received the M.S. degree with a specialization in Microfluidics [PSL University](https://microfluidics-master.fr/) in 2021, and the B.Tech degree in mechatronics engineering from [Guru Gobind Singh Indraprastha University](http://ipu.ac.in/usict/Researchusict.php) in 2018.
 
-Currently, my research investigates the role of actin in shaping nuclear architecture during ependymal cell differentiation. My work combines aspects of mechanotransduction, developmental biology, and microfluidics. I am particularly passionate about developing innovative technologies and integrating diverse tools to study the fundamental processes governing living systems.
+Currently, my research investigates the role of actin in shaping nuclear architecture during ependymal cell differentiation. My work combines aspects of mechanotransduction, developmental biology, and microfluidics. I am particularly passionate about developing innovative technologies and integrating diverse tools to study the fundamental processes governing living systems. 
+
+By integrating multiple disciplines, my research aims to uncover novel insights into the implications of mechanical regulation in cell fate, cellular organization, and function. This interdisciplinary approach provides a unique perspective on neurodevelopmental processes and related disorders.
 
 
 # 🔥 News
@@ -30,10 +32,8 @@ Currently, my research investigates the role of actin in shaping nuclear archite
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMT 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Open access to the published article via Chemrxiv](https://chemrxiv.org/engage/chemrxiv/article-details/64f72dcd79853bbd7826249c)
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Open access to the AMT 2024 article available via Chemrxiv](https://chemrxiv.org/engage/chemrxiv/article-details/64f72dcd79853bbd7826249c)
+ 
 </div>
 </div>
 
