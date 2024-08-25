@@ -27,7 +27,7 @@ By integrating multiple disciplines, my research aims to uncover novel insights 
 # 🔥 News
 - *2024.04*: **[Paper accepted]** My first article has been published. Congratulations to all collaborators!
 
-# 📝 Publications 
+# 📝 Publication 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMT 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -37,7 +37,7 @@ By integrating multiple disciplines, my research aims to uncover novel insights 
 </div>
 </div>
 
-# 📖 Educations
+# 📖 Education
 - *2023.09 - Now:* Ph.D., Biophysics, École normale supérieure, France
 - *2020.09 - 2021.08:* M2, Specialization in Microfluidics, Paris Sciences and Lettres University,France
 - *2018.07 - 2020.07:* M.Tech, Nanotechnology, Jamia Millia Islamia, India
