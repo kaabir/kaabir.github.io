@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Syed Kaabir Ali. I am a doctoral candidate affiliated with the [Active Cell Matter Lab](https://www.lpens.ens.psl.eu/research/biophys/equipe-19/?lang=en) and cilia biology and neurogenesis at the [École normale supérieure](https://www.lpens.ens.psl.eu/). I am advised by Dr. [Julie Plastino](https://www.lpens.ens.psl.eu/), Dr. [Nathalie Delghyr](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) and Dr. [Ayako Yamada](https://scholar.google.com/citations?user=0t5xxJMAAAAJ&hl=fr&oi=ao). Prior to my doctoral research career, I received the M.S. degree with a specialization in Microfluidics from [PSL University](https://microfluidics-master.fr/) in 2021, and the B.Tech degree in mechatronics engineering from [Guru Gobind Singh Indraprastha University](http://ipu.ac.in/usict/Researchusict.php) in 2018.
+Hi! I am Syed Kaabir Ali. I am a doctoral candidate affiliated with the [Active Cell Matter Lab](https://www.lpens.ens.psl.eu/research/biophys/equipe-19/?lang=en) and [Cilia Biology and Neurogenesis](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) at the [École normale supérieure](https://www.lpens.ens.psl.eu/). I am advised by Dr. [Julie Plastino](https://www.lpens.ens.psl.eu/), Dr. [Nathalie Delghyr](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) and Dr. [Ayako Yamada](https://scholar.google.com/citations?user=0t5xxJMAAAAJ&hl=fr&oi=ao). Prior to my doctoral studies, I received M.S. degree with a specialization in Microfluidics from [PSL University](https://microfluidics-master.fr/) in 2021, and the B.Tech degree in mechatronics engineering from [Guru Gobind Singh Indraprastha University](http://ipu.ac.in/usict/Researchusict.php) in 2018.
 
 Currently, my research investigates the role of actin in shaping the nuclear architecture during ependymal cell differentiation. My work combines aspects of mechanotransduction, developmental biology, and microfluidics. I am particularly passionate about developing innovative technologies and integrating diverse tools to study the fundamental processes governing living systems. 
 
@@ -45,11 +45,11 @@ By integrating multiple disciplines, my research aims to uncover novel insights 
 
 # ⚙️ Projects
 
-- *2022 - Now:* Actin shapes nuclear architecture during ependymal cell differentiation, at the École normale supérieure, France adviced by Dr. [Julie Plastino](https://www.lpens.ens.psl.eu/), Dr. [Nathalie Delghyr](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) and Dr. [Ayako Yamada](https://scholar.google.com/citations?user=0t5xxJMAAAAJ&hl=fr&oi=ao)
+- *2022 - Now:* Actin shapes nuclear architecture during ependymal cell differentiation, at the École normale supérieure, France advised by Dr. [Julie Plastino](https://www.lpens.ens.psl.eu/), Dr. [Nathalie Delghyr](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) and Dr. [Ayako Yamada](https://scholar.google.com/citations?user=0t5xxJMAAAAJ&hl=fr&oi=ao)
 - *2021 - 2022:* Developed droplet beads to measure signaling pathways in cancer cell aggregates, at the Cancer Research Center of Lyon, France advised by Dr. [Hélène Delanoë-Ayari](https://scholar.google.fr/citations?user=PeyjJxEAAAAJ&hl=en) and Dr. [Olivier Meurette](https://scholar.google.fr/citations?user=xDjT3roAAAAJ&hl=en)
 - *2020-2021:* Development of a Microfluidic platform to study morphogenesis of quail embryos, at the Institute Pastuer, Dr. [Arthur Michaut](https://scholar.google.fr/citations?user=PmpFf9MAAAAJ&hl=en) 
-- *2020-2020:* Integration of printable polymers with composite nanomaterials for wearable microfluidics at the Simon Fraser University, Canada adviced by Prof. [Bonnie Gray](https://scholar.google.ca/citations?user=32AbNWQAAAAJ&hl=en) 
-- *2019-2020:* Fabrication and Integration of Microfluidic platform for fluorimetric analysis, at the Indian Institute of Technology Delhi, Master's thesis adviced by Prof. [Sunil Kumar](https://web.iitd.ac.in/~kumarsunil/)
+- *2020-2020:* Integration of printable polymers with composite nanomaterials for wearable microfluidics at the Simon Fraser University, Canada advised by Prof. [Bonnie Gray](https://scholar.google.ca/citations?user=32AbNWQAAAAJ&hl=en) 
+- *2019-2020:* Fabrication and Integration of Microfluidic platform for fluorimetric analysis, at the Indian Institute of Technology Delhi, Master's thesis advised by Prof. [Sunil Kumar](https://web.iitd.ac.in/~kumarsunil/)
 
 # 🎖 Honors and Awards
 - *2023.07:*  French Ministry of Research - Doctoral Research Fellowship 2023-2026
