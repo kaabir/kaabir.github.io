@@ -32,8 +32,12 @@ By integrating multiple disciplines, my research aims to uncover novel insights 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMT 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Open access to the AMT 2024 article available via Chemrxiv](https://chemrxiv.org/engage/chemrxiv/article-details/64f72dcd79853bbd7826249c)
- 
+[Sedimentation‐Based Confinement of Individual Giant Unilamellar Vesicles in Microchamber Arrays with a Dynamically Exchangeable Outer Medium](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202301976)
+
+**Syed Kaabir Ali**, Catherine Sella, Vadim Dilhas, Barbara Jacková, Marina Mariconti, Clara Gomez‐Cruz, Laurent Thouin, Mathieu Morel, Damien Baigl, Ayako Yamada
+
+[Open access to the article available via Chemrxiv](https://chemrxiv.org/engage/chemrxiv/article-details/64f72dcd79853bbd7826249c)
+
 </div>
 </div>
 
