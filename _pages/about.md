@@ -37,6 +37,7 @@ By integrating multiple disciplines, my research aims to uncover novel insights 
 **Syed Kaabir Ali**, Catherine Sella, Vadim Dilhas, Barbara Jacková, Marina Mariconti, Clara Gomez‐Cruz, Laurent Thouin, Mathieu Morel, Damien Baigl, Ayako Yamada
 
 [Open access to the article available via Chemrxiv](https://chemrxiv.org/engage/chemrxiv/article-details/64f72dcd79853bbd7826249c)
+In this article we introduce an original microfluidic concept for constraint-free confinement of individual giant unilamellar vesicles (GUVs) in microchambers with a dynamically exchangeable outer medium. This technically simple method offers an ideal platform to study the spatio-temporal response of reconstituted phospholipid bilayer membranes and/or synthetic cell studies subjected to dynamic micro-environments.
 
 </div>
 </div>
