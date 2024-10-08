@@ -43,14 +43,14 @@ In this article we introduce an original microfluidic concept for constraint-fre
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biorxiv 2024</div><img src='images/ependymal_cell_intro.png' alt="sym" width="25%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biorxiv 2024</div><img src='images/ependymal_cell_intro.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Actin-based deformations of the nucleus control multiciliated ependymal cell differentiation](https://www.biorxiv.org/content/10.1101/2023.10.13.562225v2.abstract)
 
 Marianne Basso, Alexia Mahuzier, **Syed Kaabir Ali**, Anaïs Marty, Marion Faucourt, Ana-Maria Lennon-Duménil, Ayush Srivastava, Michella Khoury Damaa, Alexia Bankole, Alice Meunier, Ayako Yamada, Julie Plastino, Nathalie Spassky, Nathalie Delgehyr
 
-Ependymal cells (ECs) are Multiciliated cells which generate motile cilia-powered flows that are essential for the brain. This study reveals an important role of actin-based mechanical inputs to the nucleus as controlling factors in cell differentiation.  Our findings also demonstrate that nuclear deformation regulates retinoblastoma protein (pRB) phosphorylation/degradation. This protein controls the G1-to-S transition in cycling cells, but also activates master regulators of EC differentiation.
+**Ependymal cells (ECs)** are Multiciliated cells which generate motile cilia-powered flows that are essential for the brain. This study reveals an important role of actin-based mechanical inputs to the nucleus as controlling factors in cell differentiation.  Our findings also demonstrate that nuclear deformation regulates retinoblastoma protein (pRB) phosphorylation/degradation. This protein controls the G1-to-S transition in cycling cells, but also activates master regulators of EC differentiation.
 
 </div>
 </div>
