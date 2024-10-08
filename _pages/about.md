@@ -74,4 +74,4 @@ Marianne Basso, Alexia Mahuzier, **Syed Kaabir Ali**, Anaïs Marty, Marion Fauco
 - 2018.02: **[Runner Up]** Inter college project on real-time data acquisition and actuation system to mitigate incidents in various environments.
 
 # 📖 Conferences
-- *2024.10:*  Selected for Poster Presentation at **The Cytoskeleton as Active Matter - 818. WE-Heraeus-Seminar** in Physikzentrum Bad Honnef, Germany
+- *2024.10:*  Poster Presentation in **The Cytoskeleton as Active Matter - 818. WE-Heraeus-Seminar** at Physikzentrum Bad Honnef, Germany
