@@ -26,7 +26,7 @@ By integrating multiple disciplines, my research aims to uncover novel insights 
 
 # 🔥 News
 - *2024.04*: **[Paper accepted]** My first article has been published. Congratulations to all collaborators!
-
+- *2024.10*: **[Pre-print Out]** A part of my research on ependymal cell differentiation is out!
 # 📝 Publication 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMT 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -43,6 +43,17 @@ In this article we introduce an original microfluidic concept for constraint-fre
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biorxiv 2024</div><img src='images/ependymal_cell_intro.png' alt="sym" width="25%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Actin-based deformations of the nucleus control multiciliated ependymal cell differentiation](https://www.biorxiv.org/content/10.1101/2023.10.13.562225v2.abstract)
+
+Marianne Basso, Alexia Mahuzier, **Syed Kaabir Ali**, Anaïs Marty, Marion Faucourt, Ana-Maria Lennon-Duménil, Ayush Srivastava, Michella Khoury Damaa, Alexia Bankole, Alice Meunier, Ayako Yamada, Julie Plastino, Nathalie Spassky, Nathalie Delgehyr
+
+Ependymal cells (ECs) are Multiciliated cells which generate motile cilia-powered flows that are essential for the brain. This study reveals an important role of actin-based mechanical inputs to the nucleus as controlling factors in cell differentiation.  Our findings also demonstrate that nuclear deformation regulates retinoblastoma protein (pRB) phosphorylation/degradation. This protein controls the G1-to-S transition in cycling cells, but also activates master regulators of EC differentiation.
+
+</div>
+</div>
 # 📖 Education
 - *2023.09 - Now:* Ph.D., Biophysics, École normale supérieure, France
 - *2020.09 - 2021.08:* M2, Specialization in Microfluidics, Paris Sciences and Lettres University, France
@@ -62,4 +73,5 @@ In this article we introduce an original microfluidic concept for constraint-fre
 - *2020.02:* Mitacs Globalink Research Award, Canada 
 - 2018.02: **[Runner Up]** Inter college project on real-time data acquisition and actuation system to mitigate incidents in various environments.
 
-
+# 📖 Conferences
+- *2024.10:*  Selected for Poster Presentation at **The Cytoskeleton as Active Matter - 818. WE-Heraeus-Seminar** in Physikzentrum Bad Honnef, Germany
