@@ -25,8 +25,8 @@ By integrating multiple disciplines, my research aims to uncover novel insights 
 
 
 # 🔥 News
-- *2024.04*: **[Paper accepted]** My first article has been published. Congratulations to all collaborators!
-- *2024.10*: **[Pre-print Out]** A part of my research on ependymal cell differentiation is out!
+- *2024.04*: **[Paper accepted]** My first article has now been published. Congratulations to all collaborators!
+- *2024.10*: **[Pre-print Out]** An important part of my research story on ependymal cell differentiation is out!
 # 📝 Publication 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMT 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
