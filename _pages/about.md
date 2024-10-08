@@ -21,7 +21,7 @@ Hi! I am Syed Kaabir Ali. I am a doctoral candidate affiliated with the [Active 
 
 Currently, my research investigates the role of actin in shaping the nuclear architecture during ependymal cell differentiation. My work combines aspects of mechanotransduction, developmental biology, and microfluidics. I am particularly passionate about developing innovative technologies and integrating diverse tools to study the fundamental processes governing living systems. 
 
-By integrating multiple disciplines, my research aims to uncover novel insights into the implications of mechanical regulation in cell fate, cellular organization, and function. This interdisciplinary approach provides a unique perspective on neurodevelopmental processes and related disorders.
+My research aims to uncover novel insights into the implications of mechanical regulation in cell fate, cellular organization, and function. This interdisciplinary approach provides a unique perspective on neurodevelopmental processes.
 
 
 # 🔥 News
@@ -43,7 +43,7 @@ In this article we introduce an original microfluidic concept for constraint-fre
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biorxiv 2024</div><img src='images/ependymal_cell_intro.jpg' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biorxiv 2024</div><img src='images/ependymal_cell_intro.jpg' alt="sym" width="98%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Actin-based deformations of the nucleus control multiciliated ependymal cell differentiation](https://www.biorxiv.org/content/10.1101/2023.10.13.562225v2.abstract)
@@ -69,9 +69,9 @@ Marianne Basso, Alexia Mahuzier, **Syed Kaabir Ali**, Anaïs Marty, Marion Fauco
 - *2019-2020:* Fabrication and Integration of Microfluidic platform for fluorimetric analysis, at the Indian Institute of Technology Delhi, Master's thesis advised by Prof. [Sunil Kumar](https://web.iitd.ac.in/~kumarsunil/)
 
 # 🎖 Honors and Awards
-- *2023.07:*  French Ministry of Research - Doctoral Research Fellowship 2023-2026
+- *2023.09-2026.09:*  French Ministry of Research - Doctoral Research Fellowship
 - *2020.02:* Mitacs Globalink Research Award, Canada 
 - 2018.02: **[Runner Up]** Inter college project on real-time data acquisition and actuation system to mitigate incidents in various environments.
 
 # 📖 Conferences
-- *2024.10:*  Poster Presentation in **The Cytoskeleton as Active Matter - 818. WE-Heraeus-Seminar** at Physikzentrum Bad Honnef, Germany
+- *Sep 30th - Oct 4th, 2024:*  Poster Presentation at [**The Cytoskeleton as Active Matter - 818. WE-Heraeus-Seminar**](https://www.we-heraeus-stiftung.de/veranstaltungen/the-cytoskeleton-as-active-matter/) at the Physikzentrum Bad Honnef, Germany
