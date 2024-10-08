@@ -43,7 +43,7 @@ In this article we introduce an original microfluidic concept for constraint-fre
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biorxiv 2024</div><img src='images/ependymal_cell_intro.png' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biorxiv 2024</div><img src='images/ependymal_cell_intro.jpg' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Actin-based deformations of the nucleus control multiciliated ependymal cell differentiation](https://www.biorxiv.org/content/10.1101/2023.10.13.562225v2.abstract)
