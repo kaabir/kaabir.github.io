@@ -32,7 +32,7 @@ My research aims to uncover novel insights into the implications of mechanical r
 - *2024.10*: **[Pre-print Out]** An important part of my research story on ependymal cell differentiation is out!
 # 📝 Publication 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMT 2024</div><img src='images/500x300.png' alt="sym" width="85%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMT 2024</div><img src='images/500x300.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Sedimentation‐Based Confinement of Individual Giant Unilamellar Vesicles in Microchamber Arrays with a Dynamically Exchangeable Outer Medium](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202301976)
@@ -70,11 +70,11 @@ Ependymal cells (ECs) are Multiciliated cells which generate motile cilia-powere
 # ⚙️ Projects
 <div class='paper-box-text' markdown="1">
 
-- *2022.07 - Now:* <p>&#8220;Actin shapes nuclear architecture during ependymal cell differentiation.&#8221;</p>, at the École normale supérieure, France advised by Dr. [Julie Plastino](https://www.lpens.ens.psl.eu/), Dr. [Nathalie Delghyr](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) and Dr. [Ayako Yamada](https://scholar.google.com/citations?user=0t5xxJMAAAAJ&hl=fr&oi=ao)
-- *2021.10 - 2022.06:* <p>&#8220;Developed droplet beads to measure signaling pathways in cancer cell aggregates.&#8221;</p>, at the Cancer Research Center of Lyon, France advised by Dr. [Hélène Delanoë-Ayari](https://scholar.google.fr/citations?user=PeyjJxEAAAAJ&hl=en) and Dr. [Olivier Meurette](https://scholar.google.fr/citations?user=xDjT3roAAAAJ&hl=en)
-- *2021.02-2021.08:* <p>&#8220;Development of a Microfluidic platform to study morphogenesis of quail embryos.&#8221;</p>, at the Institute Pastuer, advised by Dr. [Arthur Michaut](https://scholar.google.fr/citations?user=PmpFf9MAAAAJ&hl=en) 
-- *2020-2020:* <p>&#8220;Integration of printable polymers with composite nanomaterials for wearable microfluidics.&#8221;</p>, at the Simon Fraser University, Canada advised by Prof. [Bonnie Gray](https://scholar.google.ca/citations?user=32AbNWQAAAAJ&hl=en) 
-- *2019-2020:* <p>&#8220;Fabrication and Integration of Microfluidic platform for fluorimetric analysis.&#8221;</p>, at the Indian Institute of Technology Delhi, Master's thesis advised by Prof. [Sunil Kumar](https://web.iitd.ac.in/~kumarsunil/)
+- *2022.07 - Now:* &#8220;Actin shapes nuclear architecture during ependymal cell differentiation.&#8221;, at the École normale supérieure, France advised by Dr. [Julie Plastino](https://www.lpens.ens.psl.eu/), Dr. [Nathalie Delghyr](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) and Dr. [Ayako Yamada](https://scholar.google.com/citations?user=0t5xxJMAAAAJ&hl=fr&oi=ao)
+- *2021.10 - 2022.06:* &#8220;Developed droplet beads to measure signaling pathways in cancer cell aggregates.&#8221;</p>, at the Cancer Research Center of Lyon, France advised by Dr. [Hélène Delanoë-Ayari](https://scholar.google.fr/citations?user=PeyjJxEAAAAJ&hl=en) and Dr. [Olivier Meurette](https://scholar.google.fr/citations?user=xDjT3roAAAAJ&hl=en)
+- *2021.02-2021.08:* &#8220;Development of a Microfluidic platform to study morphogenesis of quail embryos.&#8221;, at the Institute Pastuer, advised by Dr. [Arthur Michaut](https://scholar.google.fr/citations?user=PmpFf9MAAAAJ&hl=en) 
+- *2020-2020:* &#8220;Integration of printable polymers with composite nanomaterials for wearable microfluidics.&#8221;, at the Simon Fraser University, Canada advised by Prof. [Bonnie Gray](https://scholar.google.ca/citations?user=32AbNWQAAAAJ&hl=en) 
+- *2019-2020:* &#8220;Fabrication and Integration of Microfluidic platform for fluorimetric analysis.&#8221;, at the Indian Institute of Technology Delhi, Master's thesis advised by Prof. [Sunil Kumar](https://web.iitd.ac.in/~kumarsunil/)
 </div>
 # 🎖 Honors and Awards
 - *2023.09-2026.09:*  French Ministry of Research - Doctoral Research Fellowship
