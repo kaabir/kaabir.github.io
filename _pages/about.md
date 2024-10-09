@@ -56,13 +56,13 @@ In this article we introduce an original microfluidic concept for constraint-fre
 Marianne Basso, Alexia Mahuzier, **Syed Kaabir Ali**, Anaïs Marty, Marion Faucourt, Ana-Maria Lennon-Duménil, Ayush Srivastava, Michella Khoury Damaa, Alexia Bankole, Alice Meunier, Ayako Yamada, Julie Plastino, Nathalie Spassky, Nathalie Delgehyr
 
 <blockquote>
-Ependymal cells (ECs) are Multiciliated cells which generate motile cilia-powered flows that are essential for the brain. This study reveals an important role of actin-based mechanical inputs to the nucleus as controlling factors in cell differentiation.  Our findings also demonstrate that nuclear deformation regulates retinoblastoma protein (pRB) phosphorylation/degradation. This protein controls the G1-to-S transition in cycling cells, but also activates master regulators of EC differentiation.
+Ependymal cells (ECs) are multiciliated cells which generate motile cilia-powered flows that are essential for the brain. This study reveals an important role of actin-based mechanical inputs to the nucleus as controlling factors in cell differentiation.  Our findings also demonstrate that nuclear deformation regulates retinoblastoma protein (pRB) phosphorylation/degradation. This protein controls the G1-to-S transition in cycling cells, but also activates master regulators of EC differentiation.
 </blockquote>
 
 </div>
 </div>
 # 📖 Education
-- *2023.09 - Now:* Ph.D., Biophysics, École normale supérieure, France
+- *2023.09 - Now:* Ph.D., Biophysics, École Normale Supérieure, France
 - *2020.09 - 2021.08:* M2, Specialization in Microfluidics, Paris Sciences and Lettres University, France
 - *2018.07 - 2020.07:* M.Tech, Nanotechnology, Jamia Millia Islamia, India
 - *2014.07 - 2018.07:* B.Tech, Mechatronics, Guru Gobind Singh Indraprastha University, India
@@ -72,9 +72,9 @@ Ependymal cells (ECs) are Multiciliated cells which generate motile cilia-powere
 
 - *2022.07 - Now:* &#8220;Actin shapes nuclear architecture during ependymal cell differentiation.&#8221;, at the École normale supérieure, France advised by Dr. [Julie Plastino](https://www.lpens.ens.psl.eu/), Dr. [Nathalie Delghyr](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) and Dr. [Ayako Yamada](https://scholar.google.com/citations?user=0t5xxJMAAAAJ&hl=fr&oi=ao)
 - *2021.10 - 2022.06:* &#8220;Developed droplet beads to measure signaling pathways in cancer cell aggregates.&#8221;, at the Cancer Research Center of Lyon, France advised by Dr. [Hélène Delanoë-Ayari](https://scholar.google.fr/citations?user=PeyjJxEAAAAJ&hl=en) and Dr. [Olivier Meurette](https://scholar.google.fr/citations?user=xDjT3roAAAAJ&hl=en)
-- *2021.02-2021.08:* &#8220;Development of a Microfluidic platform to study morphogenesis of quail embryos.&#8221;, at the Institute Pastuer, advised by Dr. [Arthur Michaut](https://scholar.google.fr/citations?user=PmpFf9MAAAAJ&hl=en) 
+- *2021.02-2021.08:* &#8220;Development of a microfluidic platform to study morphogenesis of quail embryos.&#8221;, at the Institute Pastuer, advised by Dr. [Arthur Michaut](https://scholar.google.fr/citations?user=PmpFf9MAAAAJ&hl=en) 
 - *2020-2020:* &#8220;Integration of printable polymers with composite nanomaterials for wearable microfluidics.&#8221;, at the Simon Fraser University, Canada advised by Prof. [Bonnie Gray](https://scholar.google.ca/citations?user=32AbNWQAAAAJ&hl=en) 
-- *2019-2020:* &#8220;Fabrication and Integration of Microfluidic platform for fluorimetric analysis.&#8221;, at the Indian Institute of Technology Delhi, Master's thesis advised by Prof. [Sunil Kumar](https://web.iitd.ac.in/~kumarsunil/)
+- *2019-2020:* &#8220;Fabrication and integration of microfluidic platform for fluorimetric analysis.&#8221;, at the Indian Institute of Technology Delhi, Master's thesis advised by Prof. [Sunil Kumar](https://web.iitd.ac.in/~kumarsunil/)
 </div>
 # 🎖 Honors and Awards
 - *2023.09-2026.09:*  French Ministry of Research - Doctoral Research Fellowship
