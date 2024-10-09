@@ -38,8 +38,10 @@ My research aims to uncover novel insights into the implications of mechanical r
 
 [Open access to the article available via Chemrxiv](https://chemrxiv.org/engage/chemrxiv/article-details/64f72dcd79853bbd7826249c)
 
+ <blockquote>
 In this article we introduce an original microfluidic concept for constraint-free confinement of individual giant unilamellar vesicles (GUVs) in microchambers with a dynamically exchangeable outer medium. This technically simple method offers an ideal platform to study the spatio-temporal response of reconstituted phospholipid bilayer membranes and/or synthetic cell studies subjected to dynamic micro-environments.
-
+ </blockquote>
+ 
 </div>
 </div>
 
@@ -50,7 +52,9 @@ In this article we introduce an original microfluidic concept for constraint-fre
 
 Marianne Basso, Alexia Mahuzier, **Syed Kaabir Ali**, Anaïs Marty, Marion Faucourt, Ana-Maria Lennon-Duménil, Ayush Srivastava, Michella Khoury Damaa, Alexia Bankole, Alice Meunier, Ayako Yamada, Julie Plastino, Nathalie Spassky, Nathalie Delgehyr
 
+<blockquote>
 **Ependymal cells (ECs)** are Multiciliated cells which generate motile cilia-powered flows that are essential for the brain. This study reveals an important role of actin-based mechanical inputs to the nucleus as controlling factors in cell differentiation.  Our findings also demonstrate that nuclear deformation regulates retinoblastoma protein (pRB) phosphorylation/degradation. This protein controls the G1-to-S transition in cycling cells, but also activates master regulators of EC differentiation.
+</blockquote>
 
 </div>
 </div>
@@ -62,15 +66,15 @@ Marianne Basso, Alexia Mahuzier, **Syed Kaabir Ali**, Anaïs Marty, Marion Fauco
 
 # ⚙️ Projects
 
-- *2022 - Now:* Actin shapes nuclear architecture during ependymal cell differentiation, at the École normale supérieure, France advised by Dr. [Julie Plastino](https://www.lpens.ens.psl.eu/), Dr. [Nathalie Delghyr](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) and Dr. [Ayako Yamada](https://scholar.google.com/citations?user=0t5xxJMAAAAJ&hl=fr&oi=ao)
-- *2021 - 2022:* Developed droplet beads to measure signaling pathways in cancer cell aggregates, at the Cancer Research Center of Lyon, France advised by Dr. [Hélène Delanoë-Ayari](https://scholar.google.fr/citations?user=PeyjJxEAAAAJ&hl=en) and Dr. [Olivier Meurette](https://scholar.google.fr/citations?user=xDjT3roAAAAJ&hl=en)
-- *2020-2021:* Development of a Microfluidic platform to study morphogenesis of quail embryos, at the Institute Pastuer, advised by Dr. [Arthur Michaut](https://scholar.google.fr/citations?user=PmpFf9MAAAAJ&hl=en) 
+- *2022.07 - Now:* Actin shapes nuclear architecture during ependymal cell differentiation, at the École normale supérieure, France advised by Dr. [Julie Plastino](https://www.lpens.ens.psl.eu/), Dr. [Nathalie Delghyr](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) and Dr. [Ayako Yamada](https://scholar.google.com/citations?user=0t5xxJMAAAAJ&hl=fr&oi=ao)
+- *2021.10 - 2022.06:* Developed droplet beads to measure signaling pathways in cancer cell aggregates, at the Cancer Research Center of Lyon, France advised by Dr. [Hélène Delanoë-Ayari](https://scholar.google.fr/citations?user=PeyjJxEAAAAJ&hl=en) and Dr. [Olivier Meurette](https://scholar.google.fr/citations?user=xDjT3roAAAAJ&hl=en)
+- *2021.02-2021.08:* Development of a Microfluidic platform to study morphogenesis of quail embryos, at the Institute Pastuer, advised by Dr. [Arthur Michaut](https://scholar.google.fr/citations?user=PmpFf9MAAAAJ&hl=en) 
 - *2020-2020:* Integration of printable polymers with composite nanomaterials for wearable microfluidics at the Simon Fraser University, Canada advised by Prof. [Bonnie Gray](https://scholar.google.ca/citations?user=32AbNWQAAAAJ&hl=en) 
 - *2019-2020:* Fabrication and Integration of Microfluidic platform for fluorimetric analysis, at the Indian Institute of Technology Delhi, Master's thesis advised by Prof. [Sunil Kumar](https://web.iitd.ac.in/~kumarsunil/)
 
 # 🎖 Honors and Awards
 - *2023.09-2026.09:*  French Ministry of Research - Doctoral Research Fellowship
-- *2020.02:* Mitacs Globalink Research Award, Canada 
+- *2020.02-2020.08:* Mitacs Globalink Research Award, Canada 
 - 2018.02: **[Runner Up]** Inter college project on real-time data acquisition and actuation system to mitigate incidents in various environments.
 
 # 📖 Conferences
