@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am Syed Kaabir Ali. I am a doctoral candidate affiliated with the [Active Cell Matter Lab](https://www.lpens.ens.psl.eu/research/biophys/equipe-19/?lang=en) and [Cilia Biology and Neurogenesis](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) at the [École normale supérieure](https://www.lpens.ens.psl.eu/). I am advised by Dr. [Julie Plastino](https://www.lpens.ens.psl.eu/), Dr. [Nathalie Delghyr](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) and Dr. [Ayako Yamada](https://scholar.google.com/citations?user=0t5xxJMAAAAJ&hl=fr&oi=ao). Prior to my doctoral studies, I received M.S. degree with a specialization in Microfluidics from [PSL University](https://microfluidics-master.fr/) in 2021, and the B.Tech degree in mechatronics engineering from [Guru Gobind Singh Indraprastha University](http://ipu.ac.in/usict/Researchusict.php) in 2018.
+Hi! I am **Syed Kaabir Ali**. I am a doctoral candidate affiliated with the [Active Cell Matter Lab](https://www.lpens.ens.psl.eu/research/biophys/equipe-19/?lang=en) and [Cilia Biology and Neurogenesis](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) at the [École normale supérieure](https://www.ens.psl.eu/). I am advised by Dr. [Julie Plastino](https://www.lpens.ens.psl.eu/laboratory/directory/?lang=en&id=927), Dr. [Nathalie Delghyr](https://www.ibens.bio.ens.psl.eu/spip.php?rubrique6&lang=fr) and Dr. [Ayako Yamada](https://scholar.google.com/citations?user=0t5xxJMAAAAJ&hl=fr&oi=ao). Prior to my doctoral studies, I received M.S. degree with a specialization in Microfluidics from [PSL University](https://microfluidics-master.fr/) in 2021, and the B.Tech degree in mechatronics engineering from [Guru Gobind Singh Indraprastha University](http://ipu.ac.in/usict/Researchusict.php) in 2018.
 
 <div class='paper-box-text' markdown="1">
 <blockquote class="quote-card">
@@ -37,7 +37,7 @@ My research aims to uncover novel insights into the implications of mechanical r
 
 [Sedimentation‐Based Confinement of Individual Giant Unilamellar Vesicles in Microchamber Arrays with a Dynamically Exchangeable Outer Medium](https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202301976)
 
-<blockquote class="colored-mono"> **Syed Kaabir Ali**, Catherine Sella, Vadim Dilhas, Barbara Jacková, Marina Mariconti, Clara Gomez‐Cruz, Laurent Thouin, Mathieu Morel, Damien Baigl, Ayako Yamada </blockquote>
+**Syed Kaabir Ali**, Catherine Sella, Vadim Dilhas, Barbara Jacková, Marina Mariconti, Clara Gomez‐Cruz, Laurent Thouin, Mathieu Morel, Damien Baigl, Ayako Yamada
 
 [Open access to the article available via Chemrxiv](https://chemrxiv.org/engage/chemrxiv/article-details/64f72dcd79853bbd7826249c)
 
@@ -53,7 +53,7 @@ In this article we introduce an original microfluidic concept for constraint-fre
 
 [Actin-based deformations of the nucleus control multiciliated ependymal cell differentiation](https://www.biorxiv.org/content/10.1101/2023.10.13.562225v2.abstract)
 
-<blockquote class="colored-mono"> Marianne Basso, Alexia Mahuzier, **Syed Kaabir Ali**, Anaïs Marty, Marion Faucourt, Ana-Maria Lennon-Duménil, Ayush Srivastava, Michella Khoury Damaa, Alexia Bankole, Alice Meunier, Ayako Yamada, Julie Plastino, Nathalie Spassky, Nathalie Delgehyr </blockquote>
+Marianne Basso, Alexia Mahuzier, **Syed Kaabir Ali**, Anaïs Marty, Marion Faucourt, Ana-Maria Lennon-Duménil, Ayush Srivastava, Michella Khoury Damaa, Alexia Bankole, Alice Meunier, Ayako Yamada, Julie Plastino, Nathalie Spassky, Nathalie Delgehyr
 
 <blockquote>
 Ependymal cells (ECs) are Multiciliated cells which generate motile cilia-powered flows that are essential for the brain. This study reveals an important role of actin-based mechanical inputs to the nucleus as controlling factors in cell differentiation.  Our findings also demonstrate that nuclear deformation regulates retinoblastoma protein (pRB) phosphorylation/degradation. This protein controls the G1-to-S transition in cycling cells, but also activates master regulators of EC differentiation.
