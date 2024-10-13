@@ -82,4 +82,4 @@ Ependymal cells (ECs) are multiciliated cells which generate motile cilia-powere
 - 2018.02: **[Runner Up]** Inter college project on real-time data acquisition and actuation system to mitigate incidents in various environments.
 
 # 📖 Conferences
-- *Sep 30th - Oct 4th, 2024:*  Poster Presentation at [**The Cytoskeleton as Active Matter - 818. WE-Heraeus-Seminar**](https://www.we-heraeus-stiftung.de/veranstaltungen/the-cytoskeleton-as-active-matter/) at the Physikzentrum Bad Honnef, Germany
+- *Sep 29th - Oct 4th, 2024:*  Poster Presentation at [**The Cytoskeleton as Active Matter - 818. WE-Heraeus-Seminar**](https://www.we-heraeus-stiftung.de/veranstaltungen/the-cytoskeleton-as-active-matter/) at the Physikzentrum Bad Honnef, Germany
