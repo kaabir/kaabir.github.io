@@ -28,8 +28,11 @@ My research aims to uncover novel insights into the implications of mechanical r
 </div>
 
 # 🔥 News
-- *2024.04*: **[Paper accepted]** My first article has now been published. Congratulations to all collaborators!
+
+- *2024.12*: **[Article Published]** Part of doctoral research on ependymal cell differentiation is now published in Cell Development!
 - *2024.10*: **[Pre-print Out]** An important part of my doctoral research on ependymal cell differentiation is out!
+- *2024.04*: **[Article Published]** My first article has now been published. Congratulations to all collaborators!
+
 # 📝 Publication 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AMT 2024</div><img src='images/500x300.png' alt="sym" width="90%"></div></div>
