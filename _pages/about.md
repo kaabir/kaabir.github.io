@@ -42,7 +42,7 @@ My research aims to uncover novel insights into the implications of mechanical r
 
 **Syed Kaabir Ali**, Catherine Sella, Vadim Dilhas, Barbara Jacková, Marina Mariconti, Clara Gomez‐Cruz, Laurent Thouin, Mathieu Morel, Damien Baigl, Ayako Yamada
 
-[Open access to the article available via Chemrxiv](https://chemrxiv.org/engage/chemrxiv/article-details/64f72dcd79853bbd7826249c)
+[Open access - Chemrxiv](https://chemrxiv.org/engage/chemrxiv/article-details/64f72dcd79853bbd7826249c)
 
  <blockquote>
 In this article we introduce an original microfluidic concept for constraint-free confinement of individual giant unilamellar vesicles (GUVs) in microchambers with a dynamically exchangeable outer medium. This technically simple method offers an ideal platform to study the spatio-temporal response of reconstituted phospholipid bilayer membranes and/or synthetic cell studies subjected to dynamic micro-environments.
@@ -51,12 +51,13 @@ In this article we introduce an original microfluidic concept for constraint-fre
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Biorxiv 2024</div><img src='images/ependymal_cell_intro.PNG' alt="sym" width="95%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Developmental Cell</div><img src='images/ependymal_cell_intro.PNG' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Actin-based deformations of the nucleus control multiciliated ependymal cell differentiation](https://www.biorxiv.org/content/10.1101/2023.10.13.562225v2.abstract)
+[Actin-based deformations of the nucleus control multiciliated ependymal cell differentiation](https://www.cell.com/developmental-cell/fulltext/S1534-5807(24)00673-7)
 
 Marianne Basso, Alexia Mahuzier, **Syed Kaabir Ali**, Anaïs Marty, Marion Faucourt, Ana-Maria Lennon-Duménil, Ayush Srivastava, Michella Khoury Damaa, Alexia Bankole, Alice Meunier, Ayako Yamada, Julie Plastino, Nathalie Spassky, Nathalie Delgehyr
+[Open access - Biorxiv](https://www.biorxiv.org/content/10.1101/2023.10.13.562225v2.abstract)
 
 <blockquote>
 Ependymal cells (ECs) are multiciliated cells which generate motile cilia-powered flows that are essential for the brain. This study reveals an important role of actin-based mechanical inputs to the nucleus as controlling factors in cell differentiation.  Our findings also demonstrate that nuclear deformation regulates retinoblastoma protein (pRB) phosphorylation/degradation. This protein controls the G1-to-S transition in cycling cells, but also activates master regulators of EC differentiation.
